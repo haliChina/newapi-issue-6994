@@ -9,3 +9,4 @@ venv/
 !.env.example
 *.log
 .DS_Store
+issue-6994-attachments/
